@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP internet of things top 10
 tags: example-tag
-level: 4
+level: 2
 type: documentation
 
 ---
